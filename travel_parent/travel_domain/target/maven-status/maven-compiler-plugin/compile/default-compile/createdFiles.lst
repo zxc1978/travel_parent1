@@ -2,6 +2,7 @@ com\itheima\pojo\TabCategoryExample$Criteria.class
 com\itheima\pojo\TabCategoryExample$Criterion.class
 com\itheima\pojo\TabRouteExample.class
 com\itheima\pojo\TabRouteExample$Criterion.class
+entity\Result.class
 com\itheima\pojo\TabFavoriteExample$Criterion.class
 com\itheima\pojo\TabUserExample.class
 com\itheima\pojo\TabFavoriteKey.class
@@ -17,6 +18,7 @@ com\itheima\pojo\TabCategoryExample.class
 com\itheima\pojo\TabSellerExample$Criteria.class
 com\itheima\pojo\TabSellerExample$GeneratedCriteria.class
 com\itheima\pojo\TabUserExample$GeneratedCriteria.class
+entity\PageResult.class
 com\itheima\pojo\TabRouteImg.class
 com\itheima\pojo\TabFavoriteExample.class
 com\itheima\pojo\TabUserExample$Criteria.class
